@@ -1,1 +1,1 @@
-SELECT COUNT(*) FROM users;
+SELECT * FROM users;
