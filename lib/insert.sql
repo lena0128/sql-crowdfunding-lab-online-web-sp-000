@@ -1,1 +1,1 @@
-SELECT * FROM users;
+SELECT SUM(quantity) FROM users;
